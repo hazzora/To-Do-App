@@ -72,7 +72,7 @@ class AddDialog extends StatelessWidget {
                   child: Text(
                     'Done',
                     style: TextStyle(
-                      fontSize: 14.0.sp,
+                      fontSize: 15.0.sp,
                       color: Colors.black,
                     ),
                   ),
