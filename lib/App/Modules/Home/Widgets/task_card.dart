@@ -60,7 +60,7 @@ class TaskCard extends StatelessWidget {
             Icon(
               IconData(
                 task.icon,
-                fontFamily: 'MyCustomIconFont',
+                fontFamily: 'MaterialIcons',
               ),
               color: color,
               size: 30,

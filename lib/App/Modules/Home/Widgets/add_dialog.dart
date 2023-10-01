@@ -133,7 +133,7 @@ class AddDialog extends StatelessWidget {
                                   Icon(
                                     IconData(
                                       element.icon,
-                                      fontFamily: 'MyCustomIconFont',
+                                      fontFamily: 'MaterialIcons',
                                     ),
                                     color: HexColor.fromHex(
                                       element.color.substring(4),
