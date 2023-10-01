@@ -46,7 +46,7 @@ class DetailsPage extends StatelessWidget {
                   Icon(
                     IconData(
                       task.icon,
-                      fontFamily: 'MyCustomIconFont',
+                      fontFamily: 'MaterialIcons',
                     ),
                     color: color,
                   ),
